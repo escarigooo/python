@@ -1,28 +1,44 @@
-# Computation I
+# Python practice
 
-My workspace for learning and practising Python.
+A syntax-first practice workspace for Computation I. The exercises are organised by
+complexity rather than by lecture week, so it is always clear whether a file is a small
+syntax drill, a simple script, or a larger project.
 
-## Course weeks
+## Practice levels
 
-Each week has the lecture slides and a `practice.py` file for my own code.
+| Level | Kind | Typical time | What it tests |
+| --- | --- | --- | --- |
+| 1 | Syntax drill | 5-10 minutes | One Python feature |
+| 2 | Simple script | 10-20 minutes | One small programming decision |
+| 3 | Combined script | 20-40 minutes | Several core features together |
+| 4 | Mini-project | 45-90 minutes | A complete interactive program |
+| 5 | Challenge | 2 hours or more | Decomposition and reusable functions |
 
-| Week | Topic |
-| --- | --- |
-| 01 | How programs can go wrong |
-| 02 | Variables and data types |
-| 03 | Logic and strings |
-| 04 | User input and lists |
-| 05 | Conditionals |
+Start with [`SYNTAX.md`](SYNTAX.md), but do not copy from it while solving. Use it to
+check your answer after making an attempt. Record completed work in
+[`PROGRESS.md`](PROGRESS.md).
 
-The practical exercises book is in [`resources`](resources/).
+## Recommended routine
 
-## Running practice files
+1. Read the task and identify the concepts it requires.
+2. Write the program from memory.
+3. Predict its output before running it.
+4. Run it and fix the errors one at a time.
+5. Compare the syntax with `SYNTAX.md` or
+   [Think Python](https://allendowney.github.io/ThinkPython/).
+6. Repeat difficult exercises after 1, 3, and 7 days.
 
-From the project directory, run a file with:
+Run any exercise from the project directory:
 
 ```bash
-python3 weeks/week-01/practice.py
+python3 practice/02_simple_scripts/01_number_classifier.py
 ```
 
-Change the week number as needed. I will keep my attempts in the matching practice
-file and commit them as I learn.
+Lecture slides and the practical exercise book are kept in [`materials`](materials/)
+as references, separate from the difficulty-based practice path.
+
+## Complete reference program
+
+[`examples/student_report.py`](examples/student_report.py) is a complete working
+program that combines the most important syntax in one place. Read it, run it, change
+it, and then try to recreate individual sections without looking.
