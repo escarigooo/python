@@ -34,8 +34,12 @@ Run any exercise from the project directory:
 python3 practice/02_simple_scripts/01_number_classifier.py
 ```
 
-Lecture slides and the practical exercise book are kept in [`materials`](materials/)
-as references, separate from the difficulty-based practice path.
+Lecture slides, handouts, answer keys, and the practical exercise book are indexed in
+[`materials`](materials/README.md), separate from the difficulty-based practice path.
+
+The current Week 6 practical has a dedicated topic workspace in
+[`practice/for_loops`](practice/for_loops/README.md), with one file per handout
+exercise.
 
 ## Complete reference program
 

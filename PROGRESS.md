@@ -32,6 +32,19 @@ anything that felt difficult.
 - [ ] Student gradebook
 - [ ] Matrix report
 
+## Week 6 practical - for loops
+
+- [ ] Exercise 1 - Print 1 through 10
+- [ ] Exercise 2 - Multiples of three
+- [ ] Exercise 3 - Build a number list
+- [ ] Exercise 4 - Groups of ten
+- [ ] Exercise 5 - Find letter a
+- [ ] Exercise 6 - Count a selected letter
+- [ ] Exercise 7 - Count consonants
+- [ ] Exercise 8 - Attendance eligibility
+- [ ] Exercise 9 - Grade operation
+- [ ] Exercise 10 - Department bonus
+
 ## Review log
 
 | Exercise | First attempt | Review +1 day | Review +3 days | Review +7 days |
