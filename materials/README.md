@@ -8,11 +8,19 @@ without accidentally seeing their solutions.
 | 02 | Data types and expressions | [Exercises](handouts/week-02-data-types-and-expressions.pdf) | [Solutions](answers/week-02-data-types-and-expressions.pdf) |
 | 03 | Strings and type conversion | [Exercises](handouts/week-03-strings-and-type-conversion.pdf) | [Solutions](answers/week-03-strings-and-type-conversion.pdf) |
 | 04 | Input handling | [Exercises](handouts/week-04-input-handling.pdf) | [Solutions](answers/week-04-input-handling.pdf) |
-| 05 | Conditionals | - | [Solutions](answers/week-05-conditionals.pdf) |
-| 06 | For loops | [Exercises](handouts/week-06-for-loops.pdf) | - |
+| 05 | Conditionals | [Exercises](handouts/week-05-conditionals.pdf) | [Solutions](answers/week-05-conditionals.pdf) |
+| 06 | For loops | [Exercises](handouts/week-06-for-loops.pdf) | [Solutions](answers/week-06-for-loops.pdf) |
+| 07 | Lists and for loops | [Exercises](handouts/week-07-lists-and-for-loops.pdf) | [Review solutions](answers/week-07-review-solutions.pdf) |
 
 Lecture slides are stored in [`lectures`](lectures/), and the larger exercise book is
 stored in [`books`](books/).
+
+## Coding Test 1
+
+- [Official example test](tests/example-coding-test-1.pdf)
+- [Course guide](course-guide.pdf)
+- [Week 7 lecture slides](lectures/lecture-07-lists-and-for-loops.pdf)
+- [Three-hour preparation plan](../practice/test_1/README.md)
 
 ## Study rule
 
