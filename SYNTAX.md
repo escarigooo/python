@@ -105,6 +105,34 @@ while count < 5:
 Use `for` when iterating over a sequence. Use `while` when repetition depends on a
 condition.
 
+Every `while` needs an initial value, a condition, and an update that can eventually
+make the condition false:
+
+```python
+number = 5
+while number > 0:
+    print(number)
+    number = number - 1
+```
+
+Leave a loop immediately with `break`, normally inside an `if`:
+
+```python
+for value in values:
+    if value < 0:
+        print(value)
+        break
+```
+
+For input validation when the number of attempts is unknown:
+
+```python
+while True:
+    text = input("Whole number: ")
+    if text.isdigit():
+        break
+```
+
 ## Lists
 
 ```python
@@ -148,6 +176,70 @@ value = matrix[1][2]
 for row in matrix:
     for value in row:
         print(value)
+```
+
+Walk by index when positions or mutations matter:
+
+```python
+for row_index in range(len(matrix)):
+    for column_index in range(len(matrix[row_index])):
+        print(matrix[row_index][column_index])
+```
+
+The inner loop finishes completely before the outer loop moves. Initialise a per-row
+counter after the outer header and before the inner header.
+
+## List comprehensions
+
+Build a list:
+
+```python
+doubled = [number * 2 for number in numbers]
+```
+
+Filter a list:
+
+```python
+positives = [number for number in numbers if number > 0]
+```
+
+Convert split text:
+
+```python
+numbers = [int(part) for part in text.split(",")]
+```
+
+Use two loops. Read the `for` clauses from left to right, in the same order as
+ordinary nested loops:
+
+```python
+pairs = [first + second for first in "ab" for second in "12"]
+```
+
+Equivalent ordinary loop:
+
+```python
+pairs = []
+for first in "ab":
+    for second in "12":
+        pairs.append(first + second)
+```
+
+## List aliasing and copying
+
+Assignment does not copy a mutable list:
+
+```python
+a = [1, 2]
+b = a
+b.append(3)
+print(a)  # [1, 2, 3]
+```
+
+Use a slice for a shallow copy of a one-dimensional list:
+
+```python
+b = a[:]
 ```
 
 ## Useful error meanings

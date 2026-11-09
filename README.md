@@ -41,6 +41,12 @@ The current Week 6 practical has a dedicated topic workspace in
 [`practice/for_loops`](practice/for_loops/README.md), with one file per handout
 exercise.
 
+Coding Test 2 preparation is organised in
+[`practice/test_2`](practice/test_2/README.md). It currently covers all released
+material from Weeks 8-10: `while`, `break`, nested loops, matrices, list
+comprehensions, debugging drills, complex programs, and a timed mock test. Weeks
+11-13 will be added when the course publishes them.
+
 ## Complete reference program
 
 [`examples/student_report.py`](examples/student_report.py) is a complete working

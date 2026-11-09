@@ -45,6 +45,38 @@ anything that felt difficult.
 - [ ] Exercise 9 - Grade operation
 - [ ] Exercise 10 - Department bonus
 
+## Coding Test 2 - Week 8 while and break
+
+- [ ] Official exercises 1-5
+- [ ] Official exercises 6-10
+- [ ] Official recaps 1-3
+- [ ] Explain why every while loop stops
+
+## Coding Test 2 - Week 9 nested loops and matrices
+
+- [ ] Official exercises 1-6
+- [ ] Official exercises 7-12
+- [ ] Official exercises 13-16
+- [ ] Official recaps 1-3
+- [ ] Trace row and column indexes on paper
+
+## Coding Test 2 - Week 10 list comprehensions
+
+- [ ] Official exercises 1-5
+- [ ] Official exercises 6-11
+- [ ] Official recaps 1-6
+- [ ] Translate five comprehensions into ordinary loops
+
+## Coding Test 2 - combined mastery
+
+- [ ] Complex exercises 1-3
+- [ ] Complex exercises 4-6
+- [ ] Debugging exercises 1-6 with written explanations
+- [ ] Timed mock test - first attempt
+- [ ] Timed mock test - correction
+- [ ] Timed mock test - second attempt without notes
+- [ ] Add Weeks 11-13 when released
+
 ## Review log
 
 | Exercise | First attempt | Review +1 day | Review +3 days | Review +7 days |
