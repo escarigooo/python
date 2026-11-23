@@ -89,6 +89,8 @@ anything that felt difficult.
 - [ ] Timed mock test - first attempt
 - [ ] Timed mock test - correction
 - [ ] Timed mock test - second attempt without notes
+- [ ] Review hardest practical problems (`practice/test_2/HARDEST_PRACTICAL_REVIEW.md`)
+- [ ] Real projects (`09_real_projects`) - trace and rebuild from `CHALLENGES.md`
 - [ ] Add Week 13 when released
 
 ## Review log

@@ -13,11 +13,11 @@ syntax you currently need to practise.
 From the repository root:
 
 ```bash
-python3 practice/test_2/07_real_projects/01_codebreaker.py
-python3 practice/test_2/07_real_projects/02_tic_tac_toe.py
-python3 practice/test_2/07_real_projects/03_dungeon_escape.py
-python3 practice/test_2/07_real_projects/04_battleship.py
-python3 practice/test_2/07_real_projects/05_game_of_life.py
+python3 practice/test_2/09_real_projects/01_codebreaker.py
+python3 practice/test_2/09_real_projects/02_tic_tac_toe.py
+python3 practice/test_2/09_real_projects/03_dungeon_escape.py
+python3 practice/test_2/09_real_projects/04_battleship.py
+python3 practice/test_2/09_real_projects/05_game_of_life.py
 ```
 
 ## Learning order

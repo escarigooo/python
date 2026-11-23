@@ -25,6 +25,10 @@ released through that point and reserves the remaining path for Week 13.
 | 6 | `06_complex_practice` | Combine the topics in complete programs |
 | 7 | `07_debugging` | Find and explain exam-style faults |
 | 8 | `08_mock_test` | Work on paper under a timer |
+| 9 | `09_real_projects` | Play, trace, and rebuild complete terminal games |
+
+For a focused review of the toughest practical class problems (with full line-by-line
+solved walkthroughs), see [`HARDEST_PRACTICAL_REVIEW.md`](HARDEST_PRACTICAL_REVIEW.md).
 
 ## The mastery rule
 
