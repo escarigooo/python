@@ -12,10 +12,10 @@ without accidentally seeing their solutions.
 | 06 | For loops | [Exercises](handouts/week-06-for-loops.pdf) | [Solutions](answers/week-06-for-loops.pdf) |
 | 07 | Lists and for loops | [Exercises](handouts/week-07-lists-and-for-loops.pdf) | [Review solutions](answers/week-07-review-solutions.pdf) |
 | 08 | While loops and break | [Exercises](handouts/week-08-while-loops.pdf) | [Solutions](answers/week-08-while-loops.pdf) |
-| 09 | Nested loops and matrices | [Exercises I](handouts/week-09-exercises-i.pdf) | [Solutions](answers/week-09-exercises-i.pdf) / [Official code](../practice/test_2/solutions/week09_official/) |
-| 10 | List comprehensions | [Exercises](handouts/week-10-list-comprehensions.pdf) | [Solutions](answers/week-10-list-comprehensions.pdf) / [Official code](../practice/test_2/solutions/week10_official/) |
-| 11 | Matrices | [Exercises](handouts/week-11-matrices.pdf) | [Solutions](answers/week-11-matrices.pdf) / [Official code](../practice/test_2/solutions/week11_official/) |
-| 12 | Functions | [Lecture](lectures/lecture-12-functions.pdf) | Practice answers are separated in the Test 2 workspace |
+| 09 | Nested loops and matrices | [Exercises I](handouts/week-09-exercises-i.pdf) | [Solutions](answers/week-09-exercises-i.pdf) / [Official code](../practice/test_2/02_nested_loops_and_matrices/answers/) |
+| 10 | List comprehensions | [Exercises](handouts/week-10-list-comprehensions.pdf) | [Solutions](answers/week-10-list-comprehensions.pdf) / [Official code](../practice/test_2/03_list_comprehensions/answers/) |
+| 11 | Matrices | [Exercises](handouts/week-11-matrices.pdf) | [Solutions](answers/week-11-matrices.pdf) / [Official code](../practice/test_2/04_matrices/answers/) |
+| 12 | Functions | [Lecture](lectures/lecture-12-functions.pdf) | [Answer key](../practice/test_2/05_functions/answers.md) |
 
 Lecture slides are stored in [`lectures`](lectures/), and the larger exercise book is
 stored in [`books`](books/).

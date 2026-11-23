@@ -1,4 +1,4 @@
-# Custom practice solutions
+# Complex practice answers
 
 Read only after two complete attempts. Different correct solutions are valid when
 they obey the exercise restrictions.
@@ -144,68 +144,4 @@ passing = [
 print(passing)
 print(f"total grades: {total_grade_count}")
 print(f"passing grades: {len(passing)}")
-```
-
-## Debugging answers
-
-### 1
-
-The update is calculated but discarded:
-
-```python
-n = n - 1
-```
-
-### 2
-
-`break` runs before the condition. It belongs inside the matching `if`, after print:
-
-```python
-for value in values:
-    if value > 50:
-        print(value)
-        break
-```
-
-### 3
-
-Reset the counter once per row:
-
-```python
-for row in matrix:
-    even_count = 0
-    for value in row:
-        if value % 2 == 0:
-            even_count = even_count + 1
-    print(even_count)
-```
-
-### 4
-
-Reset the accumulator per row and use row before column:
-
-```python
-for row in range(len(matrix)):
-    total = 0
-    for column in range(len(matrix[row])):
-        total = total + matrix[row][column]
-    print(total)
-```
-
-### 5
-
-```python
-names = text.split(";")
-long_names = [name.upper() for name in names if len(name) > 3]
-count = 0
-for name in long_names:
-    count = count + 1
-```
-
-### 6
-
-`copy_values = values` creates an alias. A slice creates a new outer list:
-
-```python
-copy_values = values[:]
 ```

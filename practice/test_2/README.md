@@ -29,6 +29,8 @@ released through that point and reserves the remaining path for Week 13.
 
 For a focused review of the toughest practical class problems (with full line-by-line
 solved walkthroughs), see [`HARDEST_PRACTICAL_REVIEW.md`](HARDEST_PRACTICAL_REVIEW.md).
+To test yourself on real external problems after finishing a stage, see
+[`LEETCODE_MAP.md`](LEETCODE_MAP.md).
 
 ## The mastery rule
 
@@ -40,8 +42,9 @@ For every exercise:
 4. record the mistake, its cause, and the corrected rule;
 5. repeat failed exercises after 1, 3, and 7 days.
 
-Do not read `solutions/` until two honest attempts have failed. A correct program is
-not mastered until you can reproduce it without notes and explain every line.
+Each stage keeps its own `answers/` folder (or `answers.md`) right next to the
+exercises. Do not open the answers until two honest attempts have failed. A correct
+program is not mastered until you can reproduce it without notes and explain every line.
 
 ## Current 20/20 checkpoint
 

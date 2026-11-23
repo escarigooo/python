@@ -35,5 +35,16 @@ High-risk mistakes: building a matrix with `[row, row, row]` (shared rows), usin
 row and column ranges, and putting a filter `if` in the wrong position compared to a
 conditional expression `a if cond else b`.
 
-Official code answers are in `../solutions/week11_official/`. Exercises 11 and 12 are
+## Answers
+
+Official code answers are right here in [`answers/`](answers/). Exercises 11 and 12 are
 bridge exercises that lead directly into Week 12 (`05_functions`).
+
+## Try on LeetCode after finishing
+
+- [867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)
+- [832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/)
+- [2022. Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array/)
+- [2500. Delete Greatest Value in Each Row](https://leetcode.com/problems/delete-greatest-value-in-each-row/)
+
+See [`../LEETCODE_MAP.md`](../LEETCODE_MAP.md) for the full list and starter-code tips.

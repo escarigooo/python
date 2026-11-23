@@ -11,3 +11,6 @@ Each program combines multiple ideas and should be solved on paper first.
 | 4 | `split()`, conversion, filtered comprehensions |
 | 5 | double comprehensions and filtering |
 | 6 | validation, matrices, comprehensions, reports |
+
+Answers are right here in [`answers.md`](answers.md). For external practice after
+finishing, see [`../LEETCODE_MAP.md`](../LEETCODE_MAP.md).

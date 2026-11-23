@@ -34,5 +34,18 @@ High-risk mistakes: printing instead of returning, forgetting to capture a retur
 value, resetting a counter inside a loop, confusing positional argument order, and
 mutating a matrix in place when a new matrix was required.
 
-Check your work against `../solutions/week12_answer_key.md` only after two honest
-attempts.
+## Answers
+
+Check your work against [`answers.md`](answers.md) right here in this folder only after
+two honest attempts.
+
+## Try on LeetCode after finishing
+
+- [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)
+- [1. Two Sum](https://leetcode.com/problems/two-sum/)
+- [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+- [66. Plus One](https://leetcode.com/problems/plus-one/)
+- [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
+- [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)
+
+See [`../LEETCODE_MAP.md`](../LEETCODE_MAP.md) for the full list and starter-code tips.

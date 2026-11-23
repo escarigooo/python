@@ -29,3 +29,16 @@ for i in range(len(matrix)):
 ```
 
 Reset a per-row counter inside the outer loop and before the inner loop.
+
+## Answers
+
+Official code answers are right here in [`answers/`](answers/).
+
+## Try on LeetCode after finishing
+
+- [1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)
+- [1572. Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)
+- [1351. Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)
+- [1512. Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)
+
+See [`../LEETCODE_MAP.md`](../LEETCODE_MAP.md) for the full list and starter-code tips.

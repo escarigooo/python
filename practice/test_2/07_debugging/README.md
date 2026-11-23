@@ -9,3 +9,5 @@ For each file, write on paper:
 
 Then edit and run the file. A correction without an explanation is incomplete under
 the professor's marking style.
+
+Answers are right here in [`answers.md`](answers.md).
