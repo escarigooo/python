@@ -158,10 +158,14 @@ def calculate_average(first, second):
 
 
 result = calculate_average(14, 18)
+result = calculate_average(second=18, first=14)  # keyword arguments
 ```
 
-Parameters are written inside the parentheses. `return` sends a result back to the
-caller; `print` only displays something.
+- `def` defines a function without running it; parentheses `()` make the call.
+- `return` immediately stops the function and hands a value back to the caller.
+- `print` only displays output. A function without `return` hands back `None`.
+- Reassigning a parameter (`x = x + 4`) inside a function does not change an
+  immutable variable outside it; mutating a passed list or matrix does.
 
 ## Matrices as nested lists
 
@@ -189,6 +193,21 @@ for row_index in range(len(matrix)):
 The inner loop finishes completely before the outer loop moves. Initialise a per-row
 counter after the outer header and before the inner header.
 
+Build an independent matrix of zeros with a nested comprehension (rows outside,
+columns inside):
+
+```python
+grid = [[0 for c in range(cols)] for r in range(rows)]
+```
+
+Copy a matrix row by row so changes through `B` leave `A` unchanged:
+
+```python
+B = [row[:] for row in A]
+```
+
+Avoid `[row, row, row]` because every position points to the same inner list.
+
 ## List comprehensions
 
 Build a list:
@@ -201,6 +220,12 @@ Filter a list:
 
 ```python
 positives = [number for number in numbers if number > 0]
+```
+
+Choose a value for every element with a conditional expression (`a if cond else b`):
+
+```python
+absolutes = [n if n >= 0 else -n for n in numbers]
 ```
 
 Convert split text:
@@ -236,10 +261,17 @@ b.append(3)
 print(a)  # [1, 2, 3]
 ```
 
-Use a slice for a shallow copy of a one-dimensional list:
+After `b = a`:
+
+- Operations that mutate the shared list: `b[0] = 5`, `b.append(40)`, `b += [40]`.
+- Operations that move `b` to a new list: `b = [7]`, `b = a[:]`, `b = b + [40]`.
+
+Use a slice for a shallow copy of a one-dimensional list, and `[row[:] for row in A]`
+for a matrix:
 
 ```python
 b = a[:]
+B = [row[:] for row in A]
 ```
 
 ## Useful error meanings

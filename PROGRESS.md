@@ -67,6 +67,20 @@ anything that felt difficult.
 - [ ] Official recaps 1-6
 - [ ] Translate five comprehensions into ordinary loops
 
+## Coding Test 2 - Week 11 matrices
+
+- [ ] Official exercises 1-6
+- [ ] Official exercises 7-12
+- [ ] Official recaps 1-6
+- [ ] Explain row aliasing (`[row, row]`) versus row copying (`[row[:] for row in A]`)
+
+## Coding Test 2 - Week 12 functions
+
+- [ ] Official exercises 1-6
+- [ ] Official exercises 7-11
+- [ ] Official recaps 1-6
+- [ ] Explain `return` versus `print` and positional versus keyword arguments
+
 ## Coding Test 2 - combined mastery
 
 - [ ] Complex exercises 1-3
@@ -75,7 +89,7 @@ anything that felt difficult.
 - [ ] Timed mock test - first attempt
 - [ ] Timed mock test - correction
 - [ ] Timed mock test - second attempt without notes
-- [ ] Add Weeks 11-13 when released
+- [ ] Add Week 13 when released
 
 ## Review log
 

@@ -12,13 +12,15 @@ without accidentally seeing their solutions.
 | 06 | For loops | [Exercises](handouts/week-06-for-loops.pdf) | [Solutions](answers/week-06-for-loops.pdf) |
 | 07 | Lists and for loops | [Exercises](handouts/week-07-lists-and-for-loops.pdf) | [Review solutions](answers/week-07-review-solutions.pdf) |
 | 08 | While loops and break | [Exercises](handouts/week-08-while-loops.pdf) | [Solutions](answers/week-08-while-loops.pdf) |
-| 09 | Nested loops and matrices | [Exercises I](handouts/week-09-exercises-i.pdf) | [Official code answers](../practice/test_2/solutions/week09_official/) |
-| 10 | List comprehensions | [Lecture](lectures/lecture-10-list-comprehensions.pdf) | Practice answers are separated in the Test 2 workspace |
+| 09 | Nested loops and matrices | [Exercises I](handouts/week-09-exercises-i.pdf) | [Solutions](answers/week-09-exercises-i.pdf) / [Official code](../practice/test_2/solutions/week09_official/) |
+| 10 | List comprehensions | [Exercises](handouts/week-10-list-comprehensions.pdf) | [Solutions](answers/week-10-list-comprehensions.pdf) / [Official code](../practice/test_2/solutions/week10_official/) |
+| 11 | Matrices | [Exercises](handouts/week-11-matrices.pdf) | [Solutions](answers/week-11-matrices.pdf) / [Official code](../practice/test_2/solutions/week11_official/) |
+| 12 | Functions | [Lecture](lectures/lecture-12-functions.pdf) | Practice answers are separated in the Test 2 workspace |
 
 Lecture slides are stored in [`lectures`](lectures/), and the larger exercise book is
 stored in [`books`](books/).
 
-The professor's runnable examples for Weeks 8-10 are stored in [`code`](code/).
+The professor's runnable examples for Weeks 8-12 are stored in [`code`](code/).
 
 ## Coding Test 1
 
@@ -37,6 +39,8 @@ The actual test and official marking solution are also available:
 - [Week 8 lecture](lectures/lecture-08-while-and-break.pdf)
 - [Week 9 lecture](lectures/lecture-09-nested-loops-and-matrices.pdf)
 - [Week 10 lecture](lectures/lecture-10-list-comprehensions.pdf)
+- [Week 11 lecture](lectures/lecture-11-matrices.pdf)
+- [Week 12 lecture](lectures/lecture-12-functions.pdf)
 - [Complete current preparation workspace](../practice/test_2/README.md)
 
 ## Study rule

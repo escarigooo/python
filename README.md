@@ -43,9 +43,9 @@ exercise.
 
 Coding Test 2 preparation is organised in
 [`practice/test_2`](practice/test_2/README.md). It currently covers all released
-material from Weeks 8-10: `while`, `break`, nested loops, matrices, list
-comprehensions, debugging drills, complex programs, and a timed mock test. Weeks
-11-13 will be added when the course publishes them.
+material from Weeks 8-12: `while`, `break`, nested loops, matrices, list
+comprehensions, conditional expressions, functions, debugging drills, complex
+programs, and a timed mock test. Week 13 will be added when the course publishes it.
 
 ## Complete reference program
 
