@@ -15,7 +15,7 @@ without accidentally seeing their solutions.
 | 09 | Nested loops and matrices | [Exercises I](handouts/week-09-exercises-i.pdf) | [Solutions](answers/week-09-exercises-i.pdf) / [Official code](../practice/test_2/02_nested_loops_and_matrices/answers/) |
 | 10 | List comprehensions | [Exercises](handouts/week-10-list-comprehensions.pdf) | [Solutions](answers/week-10-list-comprehensions.pdf) / [Official code](../practice/test_2/03_list_comprehensions/answers/) |
 | 11 | Matrices | [Exercises](handouts/week-11-matrices.pdf) | [Solutions](answers/week-11-matrices.pdf) / [Official code](../practice/test_2/04_matrices/answers/) |
-| 12 | Functions | [Lecture](lectures/lecture-12-functions.pdf) | [Answer key](../practice/test_2/05_functions/answers.md) |
+| 12 | Lists and introduction to functions | [Handout](handouts/week-12-lists-and-functions.pdf) / [Lecture](lectures/lecture-12-functions.pdf) | [Answer key](../practice/test_2/05_functions/answers.md) |
 
 Lecture slides are stored in [`lectures`](lectures/), and the larger exercise book is
 stored in [`books`](books/).
@@ -41,7 +41,13 @@ The actual test and official marking solution are also available:
 - [Week 10 lecture](lectures/lecture-10-list-comprehensions.pdf)
 - [Week 11 lecture](lectures/lecture-11-matrices.pdf)
 - [Week 12 lecture](lectures/lecture-12-functions.pdf)
+- [Week 12 practical handout: lists and introduction to functions](handouts/week-12-lists-and-functions.pdf)
 - [Complete current preparation workspace](../practice/test_2/README.md)
+- [30-minute diagnostic test for Weeks 8-12](../practice/test_2/10_timed_diagnostic/README.md)
+
+The new archive's `Coding Test II` PDF is a room-assignment roster, not an exam
+question paper. The practice test above is a new mock built from the released course
+topics; the roster is not included in this repository.
 
 ## Study rule
 

@@ -26,6 +26,7 @@ released through that point and reserves the remaining path for Week 13.
 | 7 | `07_debugging` | Find and explain exam-style faults |
 | 8 | `08_mock_test` | Work on paper under a timer |
 | 9 | `09_real_projects` | Play, trace, and rebuild complete terminal games |
+| 10 | `10_timed_diagnostic` | Check the released Weeks 8-12 topics in 30 minutes |
 
 For a focused review of the toughest practical class problems (with full line-by-line
 solved walkthroughs), see [`HARDEST_PRACTICAL_REVIEW.md`](HARDEST_PRACTICAL_REVIEW.md).
@@ -64,3 +65,8 @@ Before Week 13 arrives, you should be able to do all of the following from memor
 - define and call functions with positional and keyword arguments;
 - distinguish `return` from `print` (and know when a function returns `None`);
 - trace local parameter reassignments versus mutations of passed lists or matrices.
+
+The latest archive adds the Week 12 lists-and-functions practical handout. Open the
+[30-minute diagnostic](10_timed_diagnostic/README.md) after reviewing the Week 12
+handout and function exercises. It checks only material released through Week 12;
+use the mock test again after Week 13 material is added.

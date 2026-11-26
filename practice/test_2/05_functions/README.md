@@ -3,6 +3,11 @@
 Complete the files in `official/` in order. Trace every call on paper, tracking what
 arguments are passed in, what is printed, and what value is returned.
 
+Also work through the [Week 12 practical handout](../../../materials/handouts/week-12-lists-and-functions.pdf).
+Its eight exercises mix list input, validation, string slicing, matrices, and the first
+function definitions. In particular, practise returning a value or list to the caller;
+do not replace a required `return` with `print`.
+
 ## Key patterns
 
 Defining and calling a function:

@@ -2,6 +2,8 @@
 
 This 60-minute checkpoint covers Weeks 8-10 only. Work entirely on paper, without
 running code or reading notes. It is not a prediction of unreleased Weeks 11-13.
+For a shorter test covering released material through Week 12, use the
+[30-minute diagnostic](../10_timed_diagnostic/README.md).
 
 ## Timing
 
