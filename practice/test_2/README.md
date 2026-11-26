@@ -27,6 +27,7 @@ released through that point and reserves the remaining path for Week 13.
 | 8 | `08_mock_test` | Work on paper under a timer |
 | 9 | `09_real_projects` | Play, trace, and rebuild complete terminal games |
 | 10 | `10_timed_diagnostic` | Check the released Weeks 8-12 topics in 30 minutes |
+| 11 | `11_write_it_yourself` | Practise writing Python syntax from memory, one file at a time |
 
 For a focused review of the toughest practical class problems (with full line-by-line
 solved walkthroughs), see [`HARDEST_PRACTICAL_REVIEW.md`](HARDEST_PRACTICAL_REVIEW.md).
